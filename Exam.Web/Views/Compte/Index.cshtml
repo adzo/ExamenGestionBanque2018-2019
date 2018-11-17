@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Exam.Web.Models.CompteViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+Liste des compte du client : @ViewData["FirstName"], @ViewData["LastName"]
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RIB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOuverture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Solde)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CIN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgenceKey)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.RIB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOuverture)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Solde)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CIN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AgenceKey)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

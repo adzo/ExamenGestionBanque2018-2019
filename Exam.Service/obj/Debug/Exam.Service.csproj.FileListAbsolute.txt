@@ -1,0 +1,28 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\obj\Debug\Exam.Service.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Service.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Service.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Data.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Service.Pattern.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\EntityFramework.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Exam.Data.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\Service.Pattern.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\bin\Debug\EntityFramework.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\obj\Debug\Exam.Service.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Service\obj\Debug\Exam.Service.pdb
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Service.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Service.pdb
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Data.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Service.Pattern.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Domain.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Data.pdb
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Data.dll.config
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Domain.pdb
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\bin\Debug\Exam.Domain.dll.config
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\obj\Debug\Exam.Service.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\obj\Debug\Exam.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\obj\Debug\Exam.Service.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\obj\Debug\Exam.Service.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Service\obj\Debug\Exam.Service.pdb

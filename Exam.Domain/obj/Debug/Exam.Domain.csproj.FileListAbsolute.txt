@@ -1,0 +1,17 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\bin\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\bin\Debug\Exam.Domain.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.pdb
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\bin\Debug\Exam.Domain.dll.config
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\bin\Debug\Exam.Domain.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\bin\Debug\Exam.Domain.pdb
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\obj\Debug\Exam.Domain.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\obj\Debug\Exam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\obj\Debug\Exam.Domain.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\obj\Debug\Exam.Domain.dll
+C:\Users\Lenovo\Desktop\Exam\Exam\Exam.Domain\obj\Debug\Exam.Domain.pdb
